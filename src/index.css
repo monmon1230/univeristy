@@ -11,3 +11,131 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.slider-background {
+  background: linear-gradient(173.68deg, #44cfcf73 0%, #ffd5e7 100%);
+  height: "296px";
+  width: '300px';
+}
+.slider-background1 {
+  background: linear-gradient(174.76deg, #5e7cd5 0%, #85d688 100%);
+  height: "296px";
+  width: '300px';
+}
+.slider-background2 {
+  background: linear-gradient(176.69deg, #bb85ed 0%,#d3deff 100%);
+  height: "296px";
+  width: '300px';
+}
+.slider-background3 {
+  background: linear-gradient(175.24deg, #8cdfed71 0%, #7bccdc 100%);
+  height: "296px";
+  width: '300px';
+}
+.App{
+  background-color: rgb(3, 13, 32);
+  width: 100%;
+  height: 100%;
+}
+.subject{
+  font-size: 35px;
+  font-weight: 500;
+  color:yellow;
+  display: flex;
+  justify-content: center;
+}
+.sidebg{
+  background-color: #310306;
+  height: 100%;
+  width: 300px;
+  color: rgb(55, 247, 7);
+  font-size: 25px;
+}
+.subject2{
+  font-size: 25px;
+  font-style: revert;
+  color:aqua;
+}
+.animation{
+
+  width: 70px;
+ height: 70px;
+  border-radius: 70px;
+  background: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  position: relative;
+}
+@keyframes example{
+  0%   {background-color:yellowgreen; left:0px; top:0px;}
+  25%   {background-color:white; left:200px; top:0px;}
+  50%   {background-color:purple; left:200px; top:200px;}
+  75%   {background-color:blue; left:0px; top:200px;}
+  100%   {background-color:yellow; left:00px; top:00px;}
+
+}
+.animation2{
+
+  width: 70px;
+ height: 70px;
+  border-radius: 70px;
+  background: aqua;
+  position: relative;
+  animation-name: example2;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  position: relative;
+}
+@keyframes example2{
+  0%   {background-color:yellowgreen; left:0px; top:0px;}
+  25%   {background-color:white; left:200; top:0px;}
+  50%   {background-color:purple; left:200px; top:200px;}
+  75%   {background-color:blue; left:200px; top:0px;}
+  100%   {background-color:yellow; left:0px; top:0px;}
+}
+.animation3{
+  
+  width: 70px;
+ height: 70px;
+  border-radius: 70px;
+  background: aqua;
+  position: relative;
+  animation-name: example3;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  position: relative;
+}
+@keyframes example3{
+  0%   {background-color:yellowgreen; left:0px; top:0px;}
+  75%   {background-color:white; left:200px; top:0px;}
+  50%   {background-color:purple; left:200px; top:200px;}
+  25%   {background-color:blue; left:0px; top:200px;}
+  100%   {background-color:yellow; left:00px; top:00px;}
+}
+.animation4{
+  width: 70px;
+  height: 70px;
+   border-radius: 70px;
+   background: aqua;
+   position: relative;
+   animation-name: example4;
+   animation-duration: 4s;
+   animation-fill-mode: forwards;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+   position: relative;
+}
+@keyframes example4{
+  0%   {background-color:yellowgreen; left:0px; top:0px;}
+  25%   {background-color:white; left:200px; top:0px;}
+  50%   {background-color:purple; left:200px; top:200px;}
+  75%   {background-color:blue; left:0px; top:200px;}
+  100%   {background-color:yellow; left:00px; top:00px;}
+}
