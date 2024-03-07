@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/univeristy/static/css/main.b94e379b.css",
-    "main.js": "/univeristy/static/js/main.54b134af.js",
+    "main.css": "/univeristy/static/css/main.c238053c.css",
+    "main.js": "/univeristy/static/js/main.2c6a67bb.js",
+    "static/media/logo.jpg": "/univeristy/static/media/logo.c7f1567f07469aef3cdc.jpg",
     "static/media/fish1.jpg": "/univeristy/static/media/fish1.2548a485ba2b20fd77e9.jpg",
     "static/media/fish4.jpg": "/univeristy/static/media/fish4.2548a485ba2b20fd77e9.jpg",
     "static/media/fish2.jpg": "/univeristy/static/media/fish2.ba24b697ef23e3ddfb89.jpg",
     "static/media/fish3.jpg": "/univeristy/static/media/fish3.aaab113a2b7a3893eb40.jpg",
     "static/media/fish5.jpg": "/univeristy/static/media/fish5.c979161a1edb04cb575f.jpg",
     "index.html": "/univeristy/index.html",
-    "main.b94e379b.css.map": "/univeristy/static/css/main.b94e379b.css.map",
-    "main.54b134af.js.map": "/univeristy/static/js/main.54b134af.js.map"
+    "main.c238053c.css.map": "/univeristy/static/css/main.c238053c.css.map",
+    "main.2c6a67bb.js.map": "/univeristy/static/js/main.2c6a67bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.b94e379b.css",
-    "static/js/main.54b134af.js"
+    "static/css/main.c238053c.css",
+    "static/js/main.2c6a67bb.js"
   ]
 }
